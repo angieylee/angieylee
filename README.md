@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angieylee
 - 👀 I’m interested in front end and full-stack web development.
-- 🌱 I’m currently learning C# and JavaScript frameworks such as React.js.
+- 🌱 I’m currently learning Java, C# and JavaScript frameworks such as React.js.
 - 💞️ I’m looking to collaborate on websites.
 - 📫 You can reach me on LinkedIn or by email! 
 
